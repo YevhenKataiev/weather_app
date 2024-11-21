@@ -1,8 +1,9 @@
 <script setup>
+import CityCard from '@/components/CityCard.vue';
 </script>
 
 <template>
   <main>
-    ccc
+    <CityCard />
   </main>
 </template>
